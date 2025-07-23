@@ -118,13 +118,79 @@
   <section id="contato">
     <h2>Contato</h2>
     <p><strong>Endereço:</strong> Rua Treze de Maio, 583 - Sala Térrea 3, Caxias do Sul - RS</p>
-    <p><strong>WhatsApp:</strong> <a href="https://wa.me/5554991698867" target="_blank">(54) 99169-8867</a></p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/555491698867" target="_blank">(54) 9169-8867</a></p>
     <p><strong>Email:</strong> agoraclin@gmail.com</p>
     <br>
-    <button class="btn" onclick="window.location.href='https://wa.me/5554991698867'">Agendar Consulta</button>
+    <button class="btn" onclick="window.location.href='https://wa.me/555491698867'">Agendar Consulta</button>
   </section>
 
   <footer>
+    <p>© 2025 Clínica Ágora - Todos os direitos reservados</p>
+  </footer>
+
+</body>
+</html>
+
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    nav {
+      background-color: #a98387;
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      padding: 10px 0;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px;
+      text-align: center;
+    }
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .card {
+      background-color: #fff;
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 280px;
+    }
+
+    footer {
+      background-color: #c19e9a;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .btn {
+      background-color: #a98387;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 10px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      background-color: #8d6d6f;
+    }
     <p>© 2025 Clínica Ágora - Todos os direitos reservados</p>
   </footer>
 
