@@ -118,10 +118,10 @@
   <section id="contato">
     <h2>Contato</h2>
     <p><strong>Endereço:</strong> Rua Treze de Maio, 583 - Sala Térrea 3, Caxias do Sul - RS</p>
-    <p><strong>WhatsApp:</strong> <a href="https://wa.me/555491698867" target="_blank">(54) 9169-8867</a></p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/555491698667" target="_blank">(54) 9169-8667</a></p>
     <p><strong>Email:</strong> agoraclin@gmail.com</p>
     <br>
-    <button class="btn" onclick="window.location.href='https://wa.me/555491698867'">Agendar Consulta</button>
+    <button class="btn" onclick="window.location.href='https://wa.me/555491698667'">Agendar Consulta</button>
   </section>
 
   <footer>
